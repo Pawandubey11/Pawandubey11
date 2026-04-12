@@ -153,3 +153,55 @@
 <p align="center">
   <i>⭐ Don't forget to leave a star on my repositories if you find them useful!</i>
 </p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pawandubey11&show_icons=true&theme=tokyonight&count_private=true" />
+  <br />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawandubey11&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|---------------|
+| **[MoviesProject-show-case](https://github.com/Pawandubey11/MoviesProject-show-case)** | Dynamic movie exploration platform with modern, responsive UI | Node.js, Express, MongoDB, React |
+| **Personal Portfolio** | Professional showcase of cloud & DevOps expertise | AWS, Docker, Kubernetes |
+
+---
+
+## 💡 Currently Learning
+
+- 🔹 Advanced AWS services (OpenSearch, Lambda, RDS optimization)
+- 🔹 Kubernetes cluster management and optimization
+- 🔹 Terraform advanced patterns and IaC best practices
+- 🔹 CI/CD pipeline automation with Jenkins
+- 🔹 Linux system administration and performance tuning
+
+---
+
+## 📈 Quick Facts
+
+- 🎓 B.Tech Computer Science student at IILM University
+- 💻 Full Stack Developer with DevOps expertise
+- ☁️ AWS & IBM Cloud enthusiast
+- 🐳 Docker & Kubernetes specialist
+- 🔧 Infrastructure as Code (Terraform) practitioner
+- 💬 Always open to discussing DevOps, Cloud, and Backend opportunities
+
+---
+
+## 🎯 My Goals
+
+- ✨ Master enterprise-level DevOps practices
+- ✨ Contribute to open-source projects
+- ✨ Build scalable, production-ready applications
+- ✨ Help others learn cloud technologies
+- ✨ Achieve AWS Solutions Architect certification
+
+---
